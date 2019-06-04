@@ -1,0 +1,16 @@
+{
+   "userList": [
+        {
+            "ID" : "1",
+            "Name":"Jon Doe",
+            "Age": "25",
+            "City":"Gurgaon"
+        },
+        {
+            "ID" : "2",
+            "Name":"Mary Jane",
+            "Age": "20",
+            "City":"Noida"
+        }
+    ]
+}

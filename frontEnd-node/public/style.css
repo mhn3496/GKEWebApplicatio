@@ -1,0 +1,46 @@
+.banner{
+    background-color: #fdfabd;
+    text-align: center;
+    padding: 20px 0 20px 0;
+    margin-bottom: 50px;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+
+
+.userlist{
+    padding: 0 5%;
+}
+
+.item-main{
+    width: 60%;
+    display: inline-block;
+}
+
+
+
+
+
+#button{
+    background-color: #99cafb;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 3px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
